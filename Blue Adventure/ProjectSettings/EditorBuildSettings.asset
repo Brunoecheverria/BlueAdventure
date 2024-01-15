@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 35bbd3e66b2197b40a69e28e8834247c
+  - enabled: 1
+    path: Assets/Scenes/Laberinto.unity
+    guid: 9139ff00a49de16459084315b7d9bf47
+  - enabled: 1
+    path: Assets/Scenes/PerdisteLaberinto.unity
+    guid: 4261627f3e3ddd749ae38d701b8230bc
+  - enabled: 1
+    path: Assets/Scenes/Nieve.unity
+    guid: 2552c00497e0c084d88a0605730cfa75
+  - enabled: 1
+    path: Assets/Scenes/PerdisteHielo.unity
+    guid: c659a051aaff6a04a9d4d637ccd0ee4d
+  - enabled: 1
+    path: Assets/Scenes/NivelBosque.unity
+    guid: 216a68dc2be85a14b8a44796da56adb7
+  - enabled: 1
+    path: Assets/Scenes/PerdisteBosque.unity
+    guid: c96c698046c38b049948cbfd7c0ab63d
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: bf303eb8681330543bf26fc9f2804886
+  m_configObjects: {}
